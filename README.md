@@ -1,6 +1,6 @@
 # Dimensionality_Reduction-using-PCA-and-FDA
 
-The given ipynb file contains the solution to the problem statement attached.In the file the following techniques have been demonstrated:-
+The given ipynb file contains the solution to the problem statement attached. In the file the following techniques have been demonstrated:-
 
 1) Visualizing the CIFAR-10 Dataset
 2) Performing LDA on the CIFAR-10 dataset
