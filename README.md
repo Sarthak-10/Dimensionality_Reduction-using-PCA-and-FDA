@@ -14,7 +14,7 @@ You can read more about the dataset as well as download the dataset from [this](
 3) Performing PCA to reduce the dimensions of the MNIST Dataset from 784 to 15, 8 and 3.
 4) Comparing  the accuracies obtained after dimensionality reduction with the help of bar graph.
 
-**About the MNIST Dataset**:  The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
+**About the MNIST Dataset**:  The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
 
 ![image](https://user-images.githubusercontent.com/55259635/185647469-ffec745a-88b7-4130-9c18-38bf868568e7.png)
 
