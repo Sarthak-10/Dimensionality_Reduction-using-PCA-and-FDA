@@ -23,7 +23,7 @@ You can read more about the dataset as well as download the dataset from [this](
 5) Applying FDA from scratch on the FMNIST dataset
 6) Applying LDA on the results obtained by FDA
 
-**About the FMNIST Dataset**:  Fashion-MNIST(FMNIST) is a dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.The 10 classes are T-shirt/Top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag,and Ankle Boot.Fashion-MNIST is intended to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
+**About the FMNIST Dataset**:  Fashion-MNIST(FMNIST) is a dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.The 10 classes are T-shirt/Top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag,and Ankle Boot. Fashion-MNIST is intended to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
 
 ![image](https://user-images.githubusercontent.com/55259635/185646934-271b46b2-acd8-462a-a45c-fe0cd7e7c6fc.png)
 
